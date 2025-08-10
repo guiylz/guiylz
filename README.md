@@ -10,7 +10,7 @@ Sou um desenvolvedor em começo de carreira profissional. Atualmente estou focad
 
 #### 📊 Minhas Estatísticas no GitHub:
 
-![Estatísticas do GitHub de guiylz](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de guiylz](https://github-readme-stats.vercel.app/api?username=guiylz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
 ---
 
@@ -22,7 +22,7 @@ Sou um desenvolvedor em começo de carreira profissional. Atualmente estou focad
   </a>
 </p>
 
-![Linguagens Mais Usadas por guiylz](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&langs_count=7&theme=dracula)
+![Linguagens Mais Usadas por guiylz](https://github-readme-stats.vercel.app/api/top-langs/?username=guiylz&layout=compact&langs_count=7&theme=dracula)
 
 <br>
 
