@@ -1,16 +1,33 @@
-## Hi there 👋
+### Olá, Eu sou o Guilherme 👋
 
-<!--
-**guiylz/guiylz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Sou um desenvolvedor em começo de carreira profissional. Atualmente estou focado em Redes de Computadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+---
+
+#### 📊 Minhas Estatísticas no GitHub:
+
+![Estatísticas do GitHub de guiylz](https://github-readme-stats.vercel.app/api?username=SEU-NOME-DE-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+---
+
+#### 🚀 Linguagens e Ferramentas que eu uso:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=C,Java,JavaScript,React,SQL,Nextjs,Tailwind,Nodejs,Express,Postgres,Python,Git,VScode," />
+  </a>
+</p>
+
+![Linguagens Mais Usadas por guiylz](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-NOME-DE-USUARIO&layout=compact&langs_count=7&theme=dracula)
+
+<br>
+
+---
+
+📫 **Como me encontrar:**
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermectt7@gmail.com)
